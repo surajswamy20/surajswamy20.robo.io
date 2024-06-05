@@ -1,3 +1,7 @@
 # surajswamy20.robo.io
 
-usedto show cast a dancing robo made by me
+used to show cast a dancing robo made by SURAJ SWAMY
+-Languages Used:
+  HTLM
+  CSS
+  JS
