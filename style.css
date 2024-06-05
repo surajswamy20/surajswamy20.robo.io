@@ -33,7 +33,7 @@ h1 {
 } 
 
 .eyes {
-	/* align-items:last baseline; */
+	
 	display: flex;
 	
 }
@@ -85,7 +85,6 @@ h1 {
 .lower_body { 
 	width: 200px; 
 	height: 200px;
-	/* This is another useful property. Hmm what do you think it does?*/
 	margin: 0 auto;
 	display: flex;
 
@@ -133,8 +132,7 @@ h1 {
 } 
 
 .left_eye { 
-	/* These properties are new and you haven't encountered
-	in this course. Check out CSS Tricks to see what it does! */
+	
 	position:relative; 
 	top: 100px; 
 	left: 40px; 
@@ -148,21 +146,21 @@ h1 {
 	
 }
 
-/* .antena { 
+ .antena { 
 	width: 200px;
 	margin: 0 auto; 
 	height: 150px; 
 	border-radius: 200px 200px 0 0; 
 	margin-bottom: 10px;
-	background-color: black;} */
-	/* .left_antena,.right_antena{
+	background-color: black;} 
+	 .left_antena,.right_antena{
 		width: 200px;
 	margin: 0 auto; 
 	height: 150px; 
 	border-radius: 200px 200px 0 0; 
 	margin-bottom: 10px;
 
-	} */
+	} 
 
 
 
