@@ -19,7 +19,7 @@ h1 {
 .right_arm, 
 .left_leg, 
 .right_leg {
-	background-color: #7ae85f;
+	background-color: #7ae80f;
 	
 	 
 }
@@ -145,24 +145,6 @@ h1 {
 	left: 120px; 
 	
 }
-
- .antena { 
-	width: 200px;
-	margin: 0 auto; 
-	height: 150px; 
-	border-radius: 200px 200px 0 0; 
-	margin-bottom: 10px;
-	background-color: black;} 
-	 .left_antena,.right_antena{
-		width: 200px;
-	margin: 0 auto; 
-	height: 150px; 
-	border-radius: 200px 200px 0 0; 
-	margin-bottom: 10px;
-
-	} 
-
-
 
 
 
